@@ -6,6 +6,9 @@
     "wdth" 100;
 }
 /*Shared Color Started*/
+.secondary-bg{
+background-color: #FFF8F3;
+}
 .text-primary{
    color: #FD6E0A;
 }
@@ -23,6 +26,14 @@
     font-weight: bold;
     padding: 18px 36px;
     border-radius: 5px;
+}
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+}
+.section-description{
+    font-size: 18px;
+    color: #757575;
 }
 /*Shared Color Ended*/
 /*Header Started*/
@@ -80,3 +91,37 @@ font-weight: bold;
     width: 580px;
 }
 /*Banner Styles Ended*/
+
+/*About Styles Started*/
+/*About Styles Ended*/
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.about_items{
+    display: flex;
+    justify-content: space-around;
+}
+.item_description{
+    font-weight: 600;
+}
+/*About Main Started*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/*About Main Ended*/
+/*About Main Started*/
+
+/*About Main Ended*/
+/*About Main Started*/
+
+/*About Main Ended*/
+/*About Main Started*/
+
+/*About Main Ended*/
+/*About Main Started*/
+
+/*About Main Ended*/
